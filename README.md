@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astrojorgeluis
 - 👀 I’m interested in astronomy and programming.
-- 🌱 I’m currently studying astrophysics with a major in data science.
+- 🌱 I’m currently studying Astrophysics (B.Sc.), with a specialization in Data Science.
 - 📫 You can contact me in my email : jorge.guzman.l@usach.cl
 
 <!---
