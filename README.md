@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @astrojorgeluis
 - 👀 I’m interested in astronomy and programming.
 - 🌱 I’m currently studying astrophysics with a major in data science.
-- 📫 You can contact me in my email : chapo.ttv@gmail.com
+- 📫 You can contact me in my email : jorge.guzman.l@usach.cl
 
 <!---
 astrojorgeluis/astrojorgeluis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
