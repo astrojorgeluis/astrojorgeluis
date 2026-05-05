@@ -59,18 +59,14 @@ disco-start gui
 </div>
 
 ---
-
-### 📈 Stats
-
+ 
+### 📈 Activity
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=astrojorgeluis&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&hide_border=false&border_radius=6&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrojorgeluis&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&border_radius=6" height="165"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=astrojorgeluis&bg_color=0d1117&color=58a6ff&line=302b63&point=58a6ff&area=true&hide_border=true" width="100%"/>
 </div>
-
 ---
+
 
 ### 📬 Find me
 
@@ -82,7 +78,6 @@ disco-start gui
 </div>
 
 <br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer&animation=fadeIn" />
+  <sub>made with Python, curiosity & a lot of failed attempts</sub>
 </div>
