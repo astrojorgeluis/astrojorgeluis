@@ -14,10 +14,11 @@
 
 ### 👾 About me
 
-Final-year Astrophysics student with a mention in Data Science, currently working at the intersection of planetary formation and scientific software. My main project is **DISCO** — a tool for analyzing protoplanetary disk images that I built from scratch and published to PyPI. I'm also a proud ambassador at **[AstroDialogos](https://astrodialogos.cl)**, helping bring astronomy closer to people.
+Final-year Astrophysics student at the University of Santiago of Chile, specializing in observational and computational astrophysics. My research interests focus on protoplanetary disks, planet formation, ALMA observations, and astronomical image analysis. My main project is **DISCO** — a tool for analyzing protoplanetary disk images that I built from scratch and published to PyPI. I'm also a proud ambassador at **[Astrodiálogos](https://astrodialogos.cl)**.
+
 
 - 🪐 &nbsp;Passionate about **protoplanetary disks** and planetary formation
-- 🔬 &nbsp;Working within the **YEMS Millennium Nucleus**
+- 🔬 &nbsp;Collaborations with the **YEMS Millennium Nucleus**
 - 🐍 &nbsp;Python
 - 📡 &nbsp;Backend + Data Science
 - 🌌 &nbsp;Finishing my Astrophysics degree
